@@ -2,7 +2,7 @@
   "name": "noris",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://Marlinekhavele.github.io/chuck-api",
+  "homepage": "https://Marlinekhavele.github.io/chuck-api",
   "dependencies": {
     "antd": "^3.13.1",
     "axios": "^0.18.0",
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build", 
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
